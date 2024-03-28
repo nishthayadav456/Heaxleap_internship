@@ -190,7 +190,7 @@ body {
 }
 
 /* Media Querry */
-@media screen and (min-width: 220px) and (max-width: 500px) {
+@media screen and (min-width: 320px) and (max-width: 500px) {
   .header {
     display: flex;
     padding-top: 20px;
